@@ -1,0 +1,115 @@
+.container{
+    padding-bottom: 100px;
+}
+.bg-color{
+  background-color:#F0FFF0;
+}
+.nav-and-vab{
+    background-color:#F0FFF0;
+}
+.logo{
+    width: 198.07px;
+    height: 59px
+}
+.color-btn,#sign-in{
+    color: white;
+    width: 104px;
+    height: 43px;
+    background-color: #21B573;
+    border-radius: 33px;
+    text-align: center;
+    border: none;
+}
+.illustration{
+    width: 554px;
+    height: 346px;
+}
+.space{
+    height:42px;
+}
+.text-color{
+   color: #21B573;
+}
+.red-color-text{
+    color:#FD511A;
+}
+.line-space h1,.line-space h6,.line-space button{
+    margin: 25px;
+}
+
+.line-height{
+    line-height: 36px;
+}
+.gray-color-text{
+    color:#6C6B6B;
+}
+.icon img{
+    width: 70px;
+    height: 85px;
+}
+.box{
+  height: 270px;
+  border:none;
+  text-align: center;
+  background-color: #F8FFFB;
+  border-radius: 10px;
+  
+}
+#alternate-box{
+    background-color: #FFFFFF;
+    box-shadow: 0px  20px 40px rgba(0, 0, 0, 0.1);
+}
+.box h5{
+    padding-top: 22px;
+}
+.online-text-color{
+   color:  #413960;
+   font-weight: bold;
+ line-height: 54px;
+ text-align: center;
+}
+.card{
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    border: none;
+}
+.buy-color-btn{
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    width: 137px;
+    height: 35px;
+    border: none;
+}
+.card-footer{
+    border: none;
+    line-height: 24px;
+    color: #585859;
+}
+.text-align{
+    text-align: center;
+}
+.man-img{
+    width: 120px;
+    height: 120px;
+}
+.para{
+    width: 580px;
+    height: 90px;
+}
+.last-section{
+    background-color: #282531;
+    color:#CDCDCD;
+}
+.first{
+    width: 364px;
+    height: 60px;
+}
+footer{
+    text-align: center;
+    line-height: 30px;
+}
+.space2{
+    height:20px;
+}
